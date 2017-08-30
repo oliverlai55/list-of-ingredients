@@ -14,4 +14,5 @@ ActiveAdmin.register Drink do
 #   permitted
 # end
 
+
 end
